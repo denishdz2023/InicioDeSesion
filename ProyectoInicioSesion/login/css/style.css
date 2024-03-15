@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
+}
+
+.contenedor {
+    background-color: rgb(222, 238, 255);
+    padding: 100px;
+    display: flex;
+    height: 225px;
+    flex-direction: column; /* Para alinear verticalmente */
+    justify-content: center; /* Centrar verticalmente */
+    align-items: center; /* Centrar horizontalmente */
+    border-radius: 20px;
+}
+
+
